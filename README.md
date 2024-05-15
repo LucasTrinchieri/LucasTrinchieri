@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas Trinchieri</h1>
-![LUCAS TRINCHIERI](https://github.com/LucasTrinchieri/LucasTrinchieri/assets/102260737/8c220115-5c43-400e-94f4-3d25ff2b65d6)
+<img src="https://github.com/LucasTrinchieri/LucasTrinchieri/assets/102260737/8c220115-5c43-400e-94f4-3d25ff2b65d6">
 <h3 align="center">Final year student of Software Engineering, passionate about programming and seeking employment</h3>
 
 - 📫 How to reach me **trinchierilucas@gmail.com**
