@@ -4,7 +4,11 @@
 
 - 📫 How to reach me **trinchierilucas@gmail.com**
 
-- ⚡ Fun fact **Initially, I hated web development, now I love it**
+- ⚡ Fun fact: **Initially, I hated web development, now I love it**
+
+- 🌱 I’m currently learning **at UCSE (Universidad Catolica de Santiago del Estero)**
+
+- 🔭 I’m currently working on **my final degree project**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
