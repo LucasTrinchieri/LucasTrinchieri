@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Lucas Trinchieri</h1>
 <img src="https://github.com/LucasTrinchieri/LucasTrinchieri/assets/102260737/8c220115-5c43-400e-94f4-3d25ff2b65d6">
-<h3 align="center">Final year student of Software Engineering, passionate about programming and seeking employment</h3>
+<h3 align="center">Developer at Mercado Libre</h3>
 
 - 📂 My portfolio: https://lukidev-portfolio.vercel.app/
 
 - 📫 How to reach me: **trinchierilucas@gmail.com**
 
-- ⚡ Fun fact: **Initially, I hated web development, now I love it**
+- ⚡ Fun fact: **Finishing my final degree project**
 
 - 🌱 I’m currently learning at **UCSE (Universidad Católica de Santiago del Estero)**
 
-- 🔭 I’m currently working on **my final degree project**
+- 🔭 I’m currently working at **Mercado Libre**t
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
