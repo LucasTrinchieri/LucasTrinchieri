@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning at **UCSE (Universidad Católica de Santiago del Estero)**
 
-- 🔭 I’m currently working at **Mercado Libre**t
+- 🔭 I’m currently working at **Mercado Libre**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
